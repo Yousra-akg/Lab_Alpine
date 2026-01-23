@@ -1,4 +1,19 @@
-# Introduction rapide à Alpine.js ⛰️
+---
+marp: true
+theme: default
+_class: lead
+paginate: true
+backgroundColor: #ffffff
+color: #5B2C6F
+
+--- 
+# ⚡ Alpine.js
+### Introduction rapide
+ 
+Présentée par : *Yousra Akajou*  
+Encadrée par : *M. Essarraj Fouad* 
+
+---
 
 ## C’est quoi Alpine.js ?
 Alpine.js est un **micro-framework JavaScript léger** qui permet d’ajouter de l’interactivité directement dans le HTML, sans configuration complexe.
